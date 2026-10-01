@@ -1,4 +1,4 @@
-﻿double precioFinal = presupuesto * 2;
+﻿double precioFinal = presupuesto * 1.5;
 string alumnoA = "Rubén";
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
