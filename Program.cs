@@ -23,5 +23,8 @@ Console.WriteLine("------------------------");
 Console.WriteLine("       GAME OVER");
 Console.WriteLine("------------------------");
 
+string lenguaje = "Java";
+Console.WriteLine($"Lenguaje favorito: {lenguaje}");
+
 string alumnoB = "Hugo";
 Console.WriteLine($"Desarrollador 2: {alumnoB}");
