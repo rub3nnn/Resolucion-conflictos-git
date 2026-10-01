@@ -1,6 +1,4 @@
-﻿double precioFinal = presupuesto * 2;
-double precioFinal = presupuesto + 25;
-string alumnoA = "Rubén";
+﻿string alumnoA = "Rubén";
 Console.WriteLine($"Desarrollador 1: {alumnoA}");
 
 Console.WriteLine("========================");
@@ -10,6 +8,8 @@ Console.WriteLine("========================");
 string equipo = "Los programadores";
 int puntos = 350;
 double presupuesto = 50;
+
+double precioFinal = presupuesto * 1.5;
 
 Console.WriteLine($"Equipo: {equipo}");
 Console.WriteLine($"Puntos: {puntos}");
