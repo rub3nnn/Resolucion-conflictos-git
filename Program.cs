@@ -13,3 +13,6 @@ Console.WriteLine($"Presupuesto: {presupuesto} €");
 Console.WriteLine("========================");
 Console.WriteLine("       FIN");
 Console.WriteLine("========================");
+
+string alumnoB = "Hugo";
+Console.WriteLine($"Desarrollador 2: {alumnoB}");
