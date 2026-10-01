@@ -16,8 +16,7 @@ Console.WriteLine($"Puntos: {puntos}");
 Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
-Console.WriteLine("   PROGRAMA TERMINADO");
-Console.WriteLine("   Gracias por jugar");
+Console.WriteLine("       FIN");
 Console.WriteLine("========================");
 
 string alumnoB = "Hugo";
