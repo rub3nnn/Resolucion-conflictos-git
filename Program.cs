@@ -18,8 +18,8 @@ Console.WriteLine($"Puntos: {puntos}");
 Console.WriteLine($"Presupuesto: {presupuesto} €");
 
 Console.WriteLine("========================");
-Console.WriteLine("   PROGRAMA TERMINADO");
-Console.WriteLine("   Gracias por jugar");
+Console.WriteLine("   Holaaaaaaaaaaaaaaaaaaaaaa");
+Console.WriteLine("   Soy Hugo y estoy haciendo un cambio en el código");
 Console.WriteLine("========================");
 Console.WriteLine("------------------------");
 Console.WriteLine("       GAME OVER");
